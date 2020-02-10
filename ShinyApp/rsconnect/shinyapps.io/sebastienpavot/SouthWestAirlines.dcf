@@ -1,0 +1,13 @@
+name: SouthWestAirlines
+title: SouthWestAirlines
+username:
+account: sebastienpavot
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1755168
+bundleId: 2780242
+url: https://sebastienpavot.shinyapps.io/SouthWestAirlines/
+when: 1581011538.86743
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: GlobalSentiment.Rdata|GlobalSentimentAff.Rdata|GlobalTweets.Rdata|GlobalTweetsMap.Rdata|GlobalTweetsToken.Rdata|GlobalTweetsTokenFrequentWords.Rdata
