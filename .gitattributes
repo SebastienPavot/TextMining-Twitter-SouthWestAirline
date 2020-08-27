@@ -1,6 +1,6 @@
 *.html linguist-language=R
-*.Rdata binary
-*.RData binary
+*.Rdata linguist-language=R
+*.RData linguist-language=R
 *.rda   linguist-language=R
 *.rdb   linguist-language=R
 *.rds   linguist-language=R
