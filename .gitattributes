@@ -1,5 +1,5 @@
 *.html linguist-language=R
-*.Rdata linguist-language=R
+*.Rdata linguist-language=None
 *.rda   linguist-language=None
 *.rdb   linguist-language=None
 *.rds   linguist-language=None
