@@ -1,10 +1,1 @@
-*.html linguist-language=None
-*.Rdata linguist-language=None
-*.rda   linguist-language=None
-*.rdb   linguist-language=None
-*.rds   linguist-language=None
-*.Rd    linguist-language=None
-*.Rdx   linguist-language=None
-*.Rmd	  linguist-language=None
 *.R  	  linguist-language=R
-*.Rproj linguist-language=None
